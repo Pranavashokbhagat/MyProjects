@@ -1,0 +1,44 @@
+img{
+    width: 100%;
+}
+
+
+.diff{
+    width: 100%;
+}
+/*--------------left-------------*/
+.diff .left {
+    background-color: aqua;
+    width: 49%;
+    height: 300px;
+    float: left;
+    border: 1px solid black;
+}
+
+.diff .left h1{
+    margin-left: 40px;
+}
+
+.diff .left p{
+    padding-left: 40px;
+    padding-bottom: 20px;
+}
+
+ /* --------------right---------------*/
+ .diff .right {
+    background-color: rgb(35, 136, 136);
+    width: 49%;
+    height: 300px;
+    float: left;
+    border: 1px solid black;
+}
+
+.diff .right h1{
+    margin-left: 40px;
+}
+
+.diff .right p{
+    padding-left: 40px;
+    padding-bottom: 20px;
+    margin-top: 60px;
+}
